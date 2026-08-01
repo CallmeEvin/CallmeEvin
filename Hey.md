@@ -31,7 +31,7 @@
 ### ☕︎ &nbsp;Contact  Me
 
 <p align="center">
-<a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://img.icons8.com/?size=48&id=ZRiAFreol5mE&format=gif&color=f7f7f7"/></a>
+<a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000"/></a>
 </p>
 
 -----
