@@ -9,7 +9,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like editing videos or studying open-source code.\
 
-<img alt="Night Coding" src="https://i.pinimg.com/736x/b4/08/29/b40829f918ac17de07c4d54460f85450.jpg" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/7e/c2/cd/7ec2cd2c1a54274b1016ad8e87dd6371.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,15 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
