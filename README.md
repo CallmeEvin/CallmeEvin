@@ -1,6 +1,6 @@
-![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/1200x/55/6a/1e/556a1eec4119f18372360913740e69eb.jpg)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there, Call me Evin</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
