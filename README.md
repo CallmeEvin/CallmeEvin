@@ -30,8 +30,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/c4llme.ev1n/"><img src="https://i.pinimg.com/736x/8c/50/89/8c50893f510ae4bf4a0094d71d8fa674.jpg"/></a>
+<a href="https://linkedin.com/in/AVS1508"></a>
+<a href="https://www.instagram.com/c4llme.ev1n/"></a>
 </p>
 
 -----
