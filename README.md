@@ -1,4 +1,4 @@
-![Aditya Vikram Singh Banner](https://i.pinimg.com/1200x/d3/f4/79/d3f479ef0e6b5c7729eb4eeae3f468ab.jpg)
+![Aditya Vikram Singh Banner](https://i.pinimg.com/originals/70/5d/77/705d77e53a32ecec1c7cd7316cd74749.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>✌️ Hey there, Call me Evin</h2>
 
@@ -11,7 +11,7 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like editing videos or studying open-source code.\
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/originals/69/81/20/698120536e18c41f8243ef3f0bc7cf22.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
