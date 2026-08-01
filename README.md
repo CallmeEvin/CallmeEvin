@@ -3,7 +3,7 @@
 <h1>✌️ Hey there, Call me Evin</h1>
 
 
-ᯓ★ &nbsp;About Me
+⛩&nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
 🎓 &nbsp;I'm currently studying Computer Science at Superate!.\
@@ -12,7 +12,7 @@
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/dc/a1/58/dca1584ebf1de33e91067a7cf2bbce35.gif" align="right"/>
 
-### 𖣐 &nbsp;Tech Stack
+### ☸ &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
