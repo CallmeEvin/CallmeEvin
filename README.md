@@ -30,8 +30,7 @@
 ### ☕︎ &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img alt="Night Coding" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMTU3MDcvMTU3MDc3NDkucG5n&ts=1785555975&sig=b5ac7c2b3a3603aa69f6b3e59a34a962c46b87986cd4d10faccb3a39183a42b8"/></a>
-<a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMzUzNi8zNTM2NTA1LnBuZw==&ts=1785556019&sig=014b627a33ea8d3b5c49935c1ad4ca7138bd1c8decee545be1cecb884f96f069"/></a>
+<a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMTU3MDcvMTU3MDc3NDkucG5n&ts=1785555975&sig=b5ac7c2b3a3603aa69f6b3e59a34a962c46b87986cd4d10faccb3a39183a42b8"/></a>
 </p>
 
 -----
