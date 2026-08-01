@@ -2,6 +2,8 @@
 
 <h2>✌️ Hey there, Call me Evin</h2>
 
+-----
+
 ### /•᷅‎‎•᷄\੭ &nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
