@@ -3,7 +3,7 @@
 <h1>✌️ Hey there, Call me Evin</h1>
 
 
-###/•᷅‎‎•᷄\੭ &nbsp;About Me
+ᯓ★ &nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
 🎓 &nbsp;I'm currently studying Computer Science at Superate!.\
