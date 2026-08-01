@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ☕︎ &nbsp;Connect with Me
+### ☕︎ &nbsp;Conctact Me
 
 <p align="center">
 <a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMTU3MDcvMTU3MDc3NDkucG5n&ts=1785555975&sig=b5ac7c2b3a3603aa69f6b3e59a34a962c46b87986cd4d10faccb3a39183a42b8"/></a>
