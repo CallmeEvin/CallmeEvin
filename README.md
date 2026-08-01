@@ -30,7 +30,7 @@
 ### ☕︎ &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"></a>
+<a href="https://linkedin.com/in/AVS1508"><img alt="Night Coding" src="https://i.pinimgproxy.com/?url=aHR0cHM6Ly9jZG4taWNvbnMtcG5nLmZsYXRpY29uLmNvbS8yNTYvMzY3MC8zNjcwMjc0LnBuZw==&ts=1785555897&sig=e42b4eca7986a51ba44130fdbc4b4f310029a9842464f7433bf331a1de108bae"/></a>
 <a href="https://www.instagram.com/c4llme.ev1n/"></a>
 </p>
 
