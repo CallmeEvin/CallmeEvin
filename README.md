@@ -1,6 +1,6 @@
 ![Evin Banner](https://i.pinimg.com/originals/f2/4c/8b/f24c8bda5247d4b09082aa49db195f98.gif)
 
-<h2>✌️ Hey there, Call me Evin</h2>
+<h1>✌️ Hey there, Call me Evin</h1>
 
 -----
 
