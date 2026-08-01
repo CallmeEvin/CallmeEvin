@@ -2,7 +2,7 @@
 
 <h2>✌️ Hey there, Call me Evin</h2>
 
-### 𖣐 &nbsp;About Me
+### /•᷅‎‎•᷄\੭ &nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
 🎓 &nbsp;I'm currently studying Computer Science at Superate!.\
@@ -11,7 +11,7 @@
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/dc/a1/58/dca1584ebf1de33e91067a7cf2bbce35.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 𖣐 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -27,7 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### 🤝🏻 &nbsp;Connect with Me
+### ☕︎ &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://linkedin.com/in/AVS1508"></a>
@@ -36,4 +36,6 @@
 
 -----
 Thx for read it
+
+𓆝 𓆟 𓆞 𓆝 𓆟
 
