@@ -1,8 +1,9 @@
 ![Evin Banner](https://i.pinimg.com/originals/f2/4c/8b/f24c8bda5247d4b09082aa49db195f98.gif)
 
 <h1>✌️ Hey there, Call me Evin</h1>
------
- /•᷅‎‎•᷄\੭ &nbsp;About Me
+
+
+###/•᷅‎‎•᷄\੭ &nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
 🎓 &nbsp;I'm currently studying Computer Science at Superate!.\
