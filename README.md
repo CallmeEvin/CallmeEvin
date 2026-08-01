@@ -2,8 +2,6 @@
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>✌️ Hey there, Call me Evin</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 𖣐 &nbsp;About Me
 
 💡 &nbsp;I like to discover new things every day about technology.\
@@ -11,15 +9,13 @@
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I like editing videos or studying open-source code.\
 
-<img alt="Night Coding" src="https://i.pinimg.com/736x/7f/ef/e1/7fefe12b8c1f161fb9a8ec989cd2f1aa.jpg" align="right"/>
+<img alt="Night Coding" src="https://i.pinimg.com/736x/b4/08/29/b40829f918ac17de07c4d54460f85450.jpg" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
