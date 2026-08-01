@@ -28,10 +28,12 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ☕︎ &nbsp;Contact  Me
+### ☕︎ &nbsp;My Social Media
 
 <p align="center">
 <a href="https://www.instagram.com/c4llme.ev1n/"><img alt="Night Coding" src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000"/></a>
+<a href="https://x.com/Isnt_lol23"><img alt="Night Coding" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000"/></a>
+<a href="https://open.spotify.com/user/7nqnt80jn8tzah6hinaamx1u9?si=342ceded7b644850"><img alt="Night Coding" src="https://img.icons8.com/?size=100&id=63316&format=png&color=000000"/></a>
 </p>
 
 -----
