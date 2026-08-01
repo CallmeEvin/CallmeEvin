@@ -5,10 +5,10 @@
 
 ⛩&nbsp;About Me
 
-💡 &nbsp;I like to discover new things every day about technology.\
+👾 &nbsp;I like to discover new things every day about technology.\
 🎓 &nbsp;I'm currently studying Computer Science by myself.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I like editing videos or studying open-source code.\
+🦾 &nbsp;I'm on track for learning more about Artificial Intelligence, Cybersecurity, and Cloud Architecture.\
+💻 &nbsp;In my free time, I like editing videos or studying open-source code.\
 
 <img alt="Night Coding" src="https://i.pinimg.com/originals/dc/a1/58/dca1584ebf1de33e91067a7cf2bbce35.gif" align="right"/>
 
