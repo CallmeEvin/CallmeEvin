@@ -1,6 +1,6 @@
 ![Evin Banner](https://i.pinimg.com/originals/f2/4c/8b/f24c8bda5247d4b09082aa49db195f98.gif)
 
-<img alt="Night Coding" width='40' align="left"/><h2>✌️ Hey there, Call me Evin</h2>
+<h2>✌️ Hey there, Call me Evin</h2>
 
 ### 𖣐 &nbsp;About Me
 
